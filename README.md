@@ -1,3 +1,19 @@
+YouTube Clone Frontend
+Overview
+This repository contains the frontend implementation of a simplified YouTube clone. The project focuses on replicating the user interface and interaction of the popular video-sharing platform. It's built using React.js, providing an interactive and responsive user experience.
+
+Features
+Video Display: Intuitive video grid layout, showcasing titles, thumbnails, and upload details.
+Video Player: A feature-rich player for playing uploaded videos with playback controls.
+Responsive Design: Ensures a consistent and enjoyable experience across various devices.
+
+Technologies Used
+React.js: Building the user interface and components.
+TailwindCSS: Styling for a visually appealing design.
+Axios: Handling HTTP requests to interact with the backend.
+React Router: Managing navigation within the application.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
